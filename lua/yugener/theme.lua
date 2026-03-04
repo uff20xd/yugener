@@ -208,9 +208,9 @@ function M.get(config)
     luaTSConstructor = { fg = p.color200 },
 
     -- vim.lsp.buf.document_highlight()
-    LspReferenceText = { bg = p.color800 },
-    LspReferenceRead = { bg = p.color800 },
-    LspReferenceWrite = { bg = p.color8000 },
+    LspReferenceText = { bg = p.color600 },
+    LspReferenceRead = { bg = p.color600 },
+    LspReferenceWrite = { bg = p.color600 },
 
     -- lsp-highlight-codelens
     LspCodeLens = { fg = p.color200 },
