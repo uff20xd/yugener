@@ -74,7 +74,7 @@ function M.get(config)
     VertSplit = { fg = groups.border },
     Visual = { fg = p.color200, bg = p.color600 },
     WarningMsg = { fg = p.warning },
-    Whitespace = { fg = p.color700 },
+    Whitespace = { fg = p.color500 },
     WildMenu = { link = 'IncSearch' },
 
     Constant = { fg = p.color200 },
